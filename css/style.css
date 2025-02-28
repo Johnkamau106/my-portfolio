@@ -1,0 +1,72 @@
+body {
+    background-image: url(https://t4.ftcdn.net/jpg/02/11/41/89/360_F_211418972_I4iGCanc9kOK5Bdaf6ZOPDhlEHBdApYJ.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+
+}
+.email-button {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px; 
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+.email-button:hover {
+    background-color: #45a049; 
+}
+header {
+    background-color: rgba(234, 240, 242, 0.5);
+    color: rgb(2, 44, 10);
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: left;
+    padding: 1em 0;
+    text-shadow: 4px 4px 4px rgba(13, 239, 119, 0.2);
+}
+section {
+    color: rgb(81, 88, 126);
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 8px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 0.5em 0;
+    font-size: 0.8em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.contact a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+.contact a:hover {
+    text-decoration: underline;
+}
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+.profile-image {
+   border: solid transparent ;
+    width: 200px;
+    height: 200px;
+}
